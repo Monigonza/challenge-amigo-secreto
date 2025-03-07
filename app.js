@@ -1,6 +1,6 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
 
-//Declaración de la variable amigo como arreglo
+//Declaración de la variable amigos como arreglo
 let amigos = [];
 
 //Función para agregar un amigo al arreglo y que sea diferente a vacío
