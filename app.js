@@ -13,8 +13,20 @@ function agregarAmigo() {
         alert('Debes ingresar un nombre');
         return;
     }
-  amigos.push(nombreAmigo);
-  inputAmigo.value = '';
-  inputAmigo.focus();
-  console.log(amigos);
+    amigos.push(nombreAmigo);
+    inputAmigo.value = '';
+    inputAmigo.focus();
+    mostrarAmigos();
+    console.log(amigos);
+}
+//Función para mostrar la cantidad de amigos en el arreglo
+function mostrarAmigos() {
+    let listaAmigos = document.getElementById("listaAmigos");
+    listaAmigos.innerHTML = '';
+
+    for (let i = 0; i < amigos.length; i++) {
+        let item = document.createElement('li');
+        item.textContent = amigos[i];
+        listaAmigos.appendChild(item);
+    }
 }
