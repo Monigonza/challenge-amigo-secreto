@@ -177,5 +177,5 @@ ul {
 }
 
 .button-draw2:hover {
-    background-color: var(--color-button-hover);
+    background-color: var(--color-secundary);
 }
