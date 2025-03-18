@@ -18,16 +18,20 @@ Principalmente, la funcionalidad utilizada es por declaración
 __Ejemplo Función por declaración:__
 
 ```
-*function mostrarAmigos() {
+function mostrarAmigos() {
     let listaAmigos = document.getElementById("listaAmigos");
     listaAmigos.innerHTML = '';
-}*
+}
 ```
 ## Acceso al proyecto
 
 Para ver el repositorio del proyecto en GitHub, accedes a través de este link: https://github.com/Monigonza/challenge-amigo-secreto
 
-Para ver el funcionamiento del proyecto directamente, puedes copiar este link en tu navegador: https://codesandbox.io/p/sandbox/github/Monigonza/challenge-amigo-secreto
+Para ver la ejecución del proyecto directamente, puedes copiar este link en tu navegador: https://codesandbox.io/p/devbox/stoic-lumiere-96mcgf?workspaceId=ws_DCZKYMtV21iDgydPwF67o6
+Te mostrará en la mitad izquierda de la pantalla, los archivos del proyecto y el despliegue del archivo README. En la mitad derecha de la pantalla, podrás ejecutar la aplicación que es bastante intuitiva. De otro modo, buscas en el README como ejecutarla.
+
+![codesandbox](https://github.com/user-attachments/assets/91630495-93e6-407f-8fc2-19f6878aa342)
+
 
 ## Abrir y ejecutar el proyecto
 Si estás en github, 
