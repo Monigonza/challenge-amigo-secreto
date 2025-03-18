@@ -50,9 +50,18 @@ La idea general es ingresar nombres de tus amigos para un sorteo en que saldrá 
 
 -  Puede sortear el Amigo Secreto con el ingreso de __un sólo nombre__
 -  No tiene un cierre de sesión
+-  Seguramente, otras mejoras no abordadas en esta oportunidad
   
+## Más información del proyecto
 
+-  El curso de Git y GitHub, no me resultó entretenido ni motivante. Por tanto, adicioné un desafío personal a este proyecto y fue el trabajar con main y branch en repositorio local y remoto. Utilicé bastante el traductor de google, porque mi inglés es muy básico y técnico en otra área. Continúa siendo un desafío, pero ya lo entiendo mejor
+-  Por otra parte, me pasaron ideas para implementar en el proyecto, de tres quizás sólo logré dos donde el gitcopilot también fue un colaborador
+-  Agradecimientos a mi compañero de oficina Jorge (https://github.com/coke02) que respondió algunas de mis dudas y me motivó a que me "tirara a la piscina, no más" 
 
+## Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/195507263?v=4" width=115><br><sub>Mónica González</sub>](https://github.com/Monigonza) | 
+| :---: |
 
 
 
